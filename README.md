@@ -1,2 +1,2 @@
 # Linetana
-Energy-conservative continuous cellular automata
+Energy-conservative continuous cellular automaton
